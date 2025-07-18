@@ -1,12 +1,10 @@
-# React + Vite
+# Notion Card Arrangement with Animation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is replicating a famous card management system where one can drag and drop to update the todos in the correct column.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Features:
+1.) Add the TODO to a particular column.
+2.) Drag and drop the todo card to a different column as and when completed.
+3.) Deleting the todos.
+4.) Used React, Tailwind CSS for primary styling and working.
+5.) Used Motion (formerly Framer-Motion) for smooth transitions.
