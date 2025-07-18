@@ -2,7 +2,7 @@
 
 This project is replicating a famous card management system where one can drag and drop to update the todos in the correct column.
 
-**Features:*8
+**Features:**
 1.) Add the TODO to a particular column.,
 2.) Drag and drop the todo card to a different column as and when completed.,
 3.) Deleting the todos.,
