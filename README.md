@@ -1,6 +1,6 @@
 # Notion Card Arrangement with Animation
 
-This project is replicating a famous card management system where one can drag and drop to update the todos in the correct column.
+This project is replicating a famous card management system where one can drag and drop to update the "todos" in the correct column.
 
 | Feature | Description |
 |--------|-------------|
